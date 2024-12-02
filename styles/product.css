@@ -1,0 +1,21 @@
+
+
+#carousel_img{
+    width: 20%;
+    height: 250px;
+    border: 1px solid rgba(255, 20, 145, 0);
+    margin-left: 35%;
+}
+
+.message_error{
+    color:red;
+    font-size: 100%;
+    font-weight: bolder;
+
+}
+
+.message_success{
+    color:#33ab00;
+    font-size: 100%;
+    font-weight: bolder;
+}

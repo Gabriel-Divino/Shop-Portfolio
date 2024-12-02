@@ -1,0 +1,26 @@
+{
+  "name": "eletronic-store",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3100",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.7.1",
+    "@stripe/stripe-js": "^3.5.0",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "crypto-js": "^4.2.0",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^4.1.0",
+    "next": "14.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "stripe": "^15.5.0"
+  }
+}

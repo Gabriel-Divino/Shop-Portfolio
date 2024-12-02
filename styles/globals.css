@@ -1,0 +1,49 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+/*  Header */
+
+#header a{
+
+  color: white;
+  font-size: 130%;
+  
+}
+
+#link_enter{
+  margin-right: 10%;
+}
+
+#authenticatedButton{
+  margin-right: 10%;
+ 
+}
+
+#authenticatedButton a{
+  color:  black;
+  font-size: 100%;
+}
+
+
+#title{
+  color: white;
+  font-size: 130%;
+  font-weight: bold;
+}
+
+/* Pagina de Login */
+
+#form{
+
+  width: 70%;
+  margin-left: 15%;
+  font-size: 130%;
+  margin-top: 5%;
+
+}
+
+

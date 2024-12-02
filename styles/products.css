@@ -1,0 +1,66 @@
+#Products{
+    margin-top: 5%;
+    border: 1px solid rgba(255, 20, 145, 0);
+    margin-bottom: 10%;
+    width: 90%;
+}
+
+#Products h2{
+    margin-left: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+#Product{
+
+    border: 1px solid rgba(103, 103, 103, 0);
+    width: 20%;
+    margin-left: 5%;
+}
+
+
+#Product img{
+
+    height: 200px;
+    width: 100%;
+
+}
+
+#product_list{
+
+    border: 1px solid rgba(255, 20, 145, 0);
+    
+}
+
+#Product_Search{
+    border: 1px solid rgba(103, 103, 103, 0);
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: 2.5%;
+}
+
+#Product_Search img{
+    height: 200px;
+    width: 100%;
+
+}
+
+
+
+@media only screen and (max-width: 600px) {
+
+    #Product{
+
+        border: 1px solid rgb(103, 103, 103);
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    
+    #Product_Search{
+
+        border: 1px solid rgb(103, 103, 103);
+        width: 80%;
+        margin-left: 10%;
+    }
+
+}
